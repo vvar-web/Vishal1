@@ -5,13 +5,14 @@ html{
 
 img{
     border: 5px solid white;
-   margin:auto;
-   display: flex;
+    display: flex;
+    margin: auto;
     justify-content: center;
-/* Aligns horizontally */
+
 align-items: center;
-/* Aligns vertically (if needed) */
-height: 100vh;
+
+height: 100vh;;
+    
 }
 
 h2{
