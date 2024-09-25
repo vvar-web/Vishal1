@@ -5,7 +5,12 @@ html{
 
 img{
     border: 5px solid white;
+   display: flex;
     justify-content: center;
+/* Aligns horizontally */
+align-items: center;
+/* Aligns vertically (if needed) */
+height: 100vh;
 }
 
 h2{
